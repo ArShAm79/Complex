@@ -11,6 +11,7 @@ private:
     double real;
     double img;
 public:
+    Complex(double r = 0, double i = 0);
 
 };
 
