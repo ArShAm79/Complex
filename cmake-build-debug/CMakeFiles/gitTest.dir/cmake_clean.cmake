@@ -1,7 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/gitTest.dir/Complex.cpp.o"
-  "CMakeFiles/gitTest.dir/main.cpp.o"
+  "CMakeFiles/gitTest.dir/Complex.cpp.obj"
+  "CMakeFiles/gitTest.dir/main.cpp.obj"
   "gitTest.exe"
+  "gitTest.exe.manifest"
   "gitTest.pdb"
   "libgitTest.dll.a"
 )

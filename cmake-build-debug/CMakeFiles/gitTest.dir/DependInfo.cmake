@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/cygdrive/c/Users/User/CLionProjects/gitTest/Complex.cpp" "/cygdrive/c/Users/User/CLionProjects/gitTest/cmake-build-debug/CMakeFiles/gitTest.dir/Complex.cpp.o"
-  "/cygdrive/c/Users/User/CLionProjects/gitTest/main.cpp" "/cygdrive/c/Users/User/CLionProjects/gitTest/cmake-build-debug/CMakeFiles/gitTest.dir/main.cpp.o"
+  "C:/Users/AVAJANG/CLionProjects/git_TA/Complex.cpp" "C:/Users/AVAJANG/CLionProjects/git_TA/cmake-build-debug/CMakeFiles/gitTest.dir/Complex.cpp.obj"
+  "C:/Users/AVAJANG/CLionProjects/git_TA/main.cpp" "C:/Users/AVAJANG/CLionProjects/git_TA/cmake-build-debug/CMakeFiles/gitTest.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
